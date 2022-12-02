@@ -33,16 +33,19 @@
             "title": "",
             "metaDescription": "",
             "robots": "nofollow, noindex",
-            "texts": [
-                {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Title of a SEO Text",
+                        "text": "Text of a SEO Text"
+                    },
+                    {
+                        "title": "New title",
+                        "text": "new text"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "",
